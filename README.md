@@ -1,4 +1,4 @@
-Bu proje, brute force mantığını öğrenmek için geliştirilmiş basit bir şifre kırma aracıdır.
+Bu proje, brute force mantığını öğrenmek için geliştirilmiş basit bir parola kırma aracıdır.
 Belirlenen karakter seti ve uzunlukta tüm kombinasyonları deneyerek hedef parolayı bulmayı amaçlar.
 
 Uyarı ⚠️
