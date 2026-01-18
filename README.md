@@ -1,4 +1,4 @@
-Bu proje,basit bir parola kırma aracıdır.
+Bu proje,bir parola kırma aracıdır.
 Belirlenen karakter seti ve uzunlukta tüm kombinasyonları deneyerek hedef parolayı bulmayı amaçlar.
 
 Uyarı ⚠️
